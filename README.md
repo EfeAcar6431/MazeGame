@@ -3,8 +3,9 @@
 ## Overview
 Graph Maze Game is a Python-based game built with Pygame where the player navigates a graph structure to find hidden treasure before a snake bot does. The game ends when either the player or the snake reaches the treasure.
 
-<img src="graph_maze_game.png" width="70%">
+
 ![Graph Maze Game](https://github.com/EfeAcar6431/MazeGame/blob/main/MazeGameScreen.png)
+<img src="graph_maze_game.png" width="70%">
 
 ## Objective
 - Find the treasure before the snake bot does.
